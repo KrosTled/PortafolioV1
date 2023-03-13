@@ -17,7 +17,7 @@ function App() {
 
 						<div id="logo">
 							{/* <span class="image avatar48"><img src="./images/avatar.jpg" alt="" /></span> */}
-							<h1 id="title">Jane Doe</h1>
+							<h1 id="title">Matías Parada</h1>
 							<p>Junior full stack developer</p>
 						</div>
 
